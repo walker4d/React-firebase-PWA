@@ -1,0 +1,17 @@
+{
+"name":"Boku-Blogs",
+"short_name":"Boku",
+"start_url":"/",
+"display":"standalone",
+"background_color":"#fff",
+"description":"A blogging site for anime lovers",
+"icons":[
+    {
+    "src":"https://toppng.com/uploads/preview/cool-anime-logo-designs-cool-anime-logos-11569048807nxxriulgp2.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+]
+
+
+}
